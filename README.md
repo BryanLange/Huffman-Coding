@@ -1,4 +1,4 @@
-# Huffman-Coding
+# HuffmanLinkedList
 
 <ul>
   <li> About: Construction of a Huffman ordered linked list using insertion sort. </li>
